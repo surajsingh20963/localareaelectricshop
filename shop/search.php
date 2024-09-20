@@ -1,4 +1,7 @@
-<?php include 'inc/header.php';?>
+<?php 
+header_remove('X-Powered-By');
+
+include 'inc/header.php';?>
 
 
 <?php 
