@@ -1,6 +1,3 @@
-# localareaelectricshop
-application for electronic items
-
 
 # Member names and index numbers. 
 
